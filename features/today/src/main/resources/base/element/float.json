@@ -1,0 +1,568 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "item_title_font_size",
+      "value": "20vp"
+    },
+    {
+      "name": "item_recorded_font_size",
+      "value": "14vp"
+    },
+    {
+      "name": "item_recording_font_size",
+      "value": "14vp"
+    },
+    {
+      "name": "default_border_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "grid_row_gutter",
+      "value": "24vp"
+    },
+    {
+      "name": "font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "day_review_chart_height",
+      "value": "187.5vp"
+    },
+    {
+      "name": "day_review_tag_label_width",
+      "value": "30vp"
+    },
+    {
+      "name": "day_review_tag_value_width",
+      "value": "45vp"
+    },
+    {
+      "name": "day_review_tag_value_font_size",
+      "value": "11fp"
+    },
+    {
+      "name": "day_review_total_label_font_size",
+      "value": "13fp"
+    },
+    {
+      "name": "day_review_total_time_margin_top",
+      "value": "6vp"
+    },
+    {
+      "name": "day_review_total_hours_font_size",
+      "value": "36fp"
+    },
+    {
+      "name": "day_review_total_value_font_size",
+      "value": "28fp"
+    },
+    {
+      "name": "today_record_widget_list_divider_spacing",
+      "value": "16vp"
+    },
+    {
+      "name": "today_record_widget_divider_width",
+      "value": "1vp"
+    },
+    {
+      "name": "today_record_widget_summary_padding_left",
+      "value": "12vp"
+    },
+    {
+      "name": "today_record_widget_total_letter_spacing",
+      "value": "0fp"
+    },
+    {
+      "name": "tag_distribution_widget_title_margin_bottom_compact",
+      "value": "10vp"
+    },
+    {
+      "name": "tag_distribution_widget_item_label_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "tag_distribution_widget_bar_height",
+      "value": "8vp"
+    },
+    {
+      "name": "tag_distribution_widget_bar_radius",
+      "value": "4vp"
+    },
+    {
+      "name": "tag_distribution_widget_bar_fill_opacity",
+      "value": "0.9"
+    },
+    {
+      "name": "tag_distribution_widget_value_letter_spacing",
+      "value": "0fp"
+    },
+    {
+      "name": "tag_distribution_widget_empty_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "tag_distribution_widget_empty_opacity",
+      "value": "0.6"
+    },
+    {
+      "name": "auto_stop_settings_page_padding_horizontal",
+      "value": "20vp"
+    },
+    {
+      "name": "auto_stop_settings_page_padding_bottom",
+      "value": "15vp"
+    },
+    {
+      "name": "auto_stop_settings_header_padding_vertical",
+      "value": "16vp"
+    },
+    {
+      "name": "auto_stop_settings_back_button_margin_end",
+      "value": "10vp"
+    },
+    {
+      "name": "auto_stop_settings_back_button_padding",
+      "value": "10vp"
+    },
+    {
+      "name": "auto_stop_settings_title_font_size",
+      "value": "26fp"
+    },
+    {
+      "name": "auto_stop_settings_card_padding_horizontal",
+      "value": "16vp"
+    },
+    {
+      "name": "auto_stop_settings_card_padding_vertical",
+      "value": "16vp"
+    },
+    {
+      "name": "auto_stop_settings_limit_value_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "auto_stop_settings_limit_label_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "auto_stop_settings_control_gap",
+      "value": "6vp"
+    },
+    {
+      "name": "auto_stop_settings_control_button_size",
+      "value": "32vp"
+    },
+    {
+      "name": "auto_stop_settings_tip_margin_top",
+      "value": "8vp"
+    },
+    {
+      "name": "auto_stop_settings_control_input_width",
+      "value": "42vp"
+    },
+    {
+      "name": "auto_stop_settings_control_input_height",
+      "value": "36vp"
+    },
+    {
+      "name": "auto_stop_settings_tip_line_height",
+      "value": "20vp"
+    },
+    {
+      "name": "auto_stop_settings_tip_group_spacing",
+      "value": "2vp"
+    },
+    {
+      "name": "settings_page_padding_horizontal",
+      "value": "20vp"
+    },
+    {
+      "name": "settings_page_padding_bottom",
+      "value": "15vp"
+    },
+    {
+      "name": "settings_header_height",
+      "value": "72vp"
+    },
+    {
+      "name": "settings_header_title_font_size",
+      "value": "26fp"
+    },
+    {
+      "name": "settings_header_icon_size",
+      "value": "18fp"
+    },
+    {
+      "name": "settings_header_action_padding",
+      "value": "10vp"
+    },
+    {
+      "name": "settings_header_action_margin_end",
+      "value": "10vp"
+    },
+    {
+      "name": "settings_section_spacing",
+      "value": "15vp"
+    },
+    {
+      "name": "settings_section_title_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "settings_section_title_padding_start",
+      "value": "5vp"
+    },
+    {
+      "name": "settings_section_title_padding_bottom",
+      "value": "5vp"
+    },
+    {
+      "name": "settings_card_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "settings_list_bottom_spacer",
+      "value": "56vp"
+    },
+    {
+      "name": "settings_detail_tip_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "settings_detail_tip_line_height",
+      "value": "20vp"
+    },
+    {
+      "name": "settings_detail_tip_margin_top",
+      "value": "8vp"
+    },
+    {
+      "name": "settings_control_icon_size",
+      "value": "16fp"
+    },
+    {
+      "name": "settings_control_button_padding",
+      "value": "6vp"
+    },
+    {
+      "name": "settings_control_text_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "settings_control_text_padding_horizontal",
+      "value": "8vp"
+    },
+    {
+      "name": "settings_control_input_padding",
+      "value": "0vp"
+    },
+    {
+      "name": "settings_control_margin_end",
+      "value": "16vp"
+    },
+    {
+      "name": "settings_control_offset_x",
+      "value": "-10vp"
+    },
+    {
+      "name": "settings_segment_width",
+      "value": "150vp"
+    },
+    {
+      "name": "settings_segment_height",
+      "value": "30vp"
+    },
+    {
+      "name": "settings_segment_radius",
+      "value": "15vp"
+    },
+    {
+      "name": "settings_segment_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "settings_segment_button_padding",
+      "value": "4vp"
+    },
+    {
+      "name": "settings_segment_offset_x",
+      "value": "-15vp"
+    },
+    {
+      "name": "settings_reflect_segment_width",
+      "value": "180vp"
+    },
+    {
+      "name": "settings_reflect_reset_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "settings_reflect_tab_margin_bottom",
+      "value": "8vp"
+    },
+    {
+      "name": "today_swipe_share_btn_width",
+      "value": "60vp"
+    },
+    {
+      "name": "today_swipe_share_btn_height",
+      "value": "40vp"
+    },
+    {
+      "name": "today_swipe_share_btn_margin_h",
+      "value": "15vp"
+    },
+    {
+      "name": "today_swipe_share_icon_size",
+      "value": "20fp"
+    },
+    {
+      "name": "today_swipe_action_area_distance",
+      "value": "72vp"
+    },
+    {
+      "name": "today_record_share_btn_size",
+      "value": "35vp"
+    },
+    {
+      "name": "today_record_share_icon_size",
+      "value": "18fp"
+    },
+    {
+      "name": "today_record_share_btn_margin",
+      "value": "10vp"
+    },
+    {
+      "name": "matter_card_recording_border_width_inactive",
+      "value": "0vp"
+    },
+    {
+      "name": "matter_card_recording_border_width_active",
+      "value": "1.2vp"
+    },
+    {
+      "name": "today_voice_input_bar_max_width_ratio",
+      "value": "0.86"
+    },
+    {
+      "name": "today_voice_input_bar_bottom_margin",
+      "value": "218vp"
+    },
+    {
+      "name": "today_voice_input_bar_fan_gap",
+      "value": "25vp"
+    },
+    {
+      "name": "today_voice_input_bar_padding_h",
+      "value": "24vp"
+    },
+    {
+      "name": "today_voice_input_bar_padding_v",
+      "value": "14vp"
+    },
+    {
+      "name": "today_voice_input_bar_min_height",
+      "value": "52vp"
+    },
+    {
+      "name": "today_voice_input_bar_border_radius",
+      "value": "26vp"
+    },
+    {
+      "name": "today_voice_input_bar_chrome_width",
+      "value": "48vp"
+    },
+    {
+      "name": "today_voice_input_bar_text_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "today_voice_input_bar_shadow_radius",
+      "value": "24vp"
+    },
+    {
+      "name": "today_voice_input_bar_shadow_offset_y",
+      "value": "8vp"
+    },
+    {
+      "name": "add_ball_shadow_radius",
+      "value": "24vp"
+    },
+    {
+      "name": "add_ball_shadow_offset_y",
+      "value": "8vp"
+    },
+    {
+      "name": "data_panel_text_inset_horizontal",
+      "value": "8vp"
+    },
+    {
+      "name": "data_panel_spacing_none",
+      "value": "0vp"
+    },
+    {
+      "name": "data_panel_header_margin_top",
+      "value": "4vp"
+    },
+    {
+      "name": "data_panel_header_value_font_size",
+      "value": "24fp"
+    },
+    {
+      "name": "data_panel_header_value_font_size_md",
+      "value": "26fp"
+    },
+    {
+      "name": "data_panel_header_value_font_size_lg",
+      "value": "28fp"
+    },
+    {
+      "name": "data_panel_header_value_font_size_compact",
+      "value": "17fp"
+    },
+    {
+      "name": "data_panel_header_value_font_size_compact_md",
+      "value": "19fp"
+    },
+    {
+      "name": "data_panel_header_value_font_size_compact_lg",
+      "value": "21fp"
+    },
+    {
+      "name": "data_panel_header_unit_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "data_panel_distribution_dot_size",
+      "value": "8vp"
+    },
+    {
+      "name": "data_panel_distribution_dot_size_md",
+      "value": "10vp"
+    },
+    {
+      "name": "data_panel_distribution_dot_size_lg",
+      "value": "12vp"
+    },
+    {
+      "name": "data_panel_distribution_dot_radius",
+      "value": "50vp"
+    },
+    {
+      "name": "data_panel_distribution_dot_margin_right",
+      "value": "7vp"
+    },
+    {
+      "name": "data_panel_distribution_name_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "data_panel_distribution_name_font_size_md",
+      "value": "14fp"
+    },
+    {
+      "name": "data_panel_distribution_name_font_size_lg",
+      "value": "15fp"
+    },
+    {
+      "name": "data_panel_distribution_value_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "data_panel_distribution_value_font_size_md",
+      "value": "14fp"
+    },
+    {
+      "name": "data_panel_distribution_value_font_size_lg",
+      "value": "15fp"
+    },
+    {
+      "name": "data_panel_distribution_unit_font_size",
+      "value": "9fp"
+    },
+    {
+      "name": "data_panel_distribution_unit_font_size_md",
+      "value": "10fp"
+    },
+    {
+      "name": "data_panel_distribution_unit_font_size_lg",
+      "value": "11fp"
+    },
+    {
+      "name": "data_panel_distribution_row_height",
+      "value": "24vp"
+    },
+    {
+      "name": "data_panel_distribution_row_height_md",
+      "value": "30vp"
+    },
+    {
+      "name": "data_panel_distribution_row_height_lg",
+      "value": "34vp"
+    },
+    {
+      "name": "data_panel_circle_size",
+      "value": "150vp"
+    },
+    {
+      "name": "data_panel_circle_size_md",
+      "value": "138vp"
+    },
+    {
+      "name": "data_panel_circle_size_lg",
+      "value": "156vp"
+    },
+    {
+      "name": "data_panel_distribution_column_gap",
+      "value": "12vp"
+    },
+    {
+      "name": "data_panel_distribution_grid_gap",
+      "value": "6vp"
+    },
+    {
+      "name": "data_panel_distribution_list_padding_bottom",
+      "value": "25vp"
+    },
+    {
+      "name": "data_panel_line_height",
+      "value": "30vp"
+    },
+    {
+      "name": "data_panel_line_height_md",
+      "value": "35vp"
+    },
+    {
+      "name": "data_panel_line_height_lg",
+      "value": "40vp"
+    },
+    {
+      "name": "data_panel_line_margin_bottom",
+      "value": "10vp"
+    },
+    {
+      "name": "data_panel_line_padding_vertical",
+      "value": "10vp"
+    },
+    {
+      "name": "today_matter_item_height",
+      "value": "100vp"
+    },
+    {
+      "name": "today_matter_item_spacing",
+      "value": "16vp"
+    },
+    {
+      "name": "today_matter_item_spacing_none",
+      "value": "0vp"
+    },
+    {
+      "name": "today_pin_slot_rest_height",
+      "value": "1vp"
+    }
+  ]
+}

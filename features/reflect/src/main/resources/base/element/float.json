@@ -1,0 +1,60 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "tag_distribution_widget_list_gap",
+      "value": "10vp"
+    },
+    {
+      "name": "day_review_chart_height",
+      "value": "187.5vp"
+    },
+    {
+      "name": "day_review_tag_row_gap",
+      "value": "6vp"
+    },
+    {
+      "name": "day_review_tag_label_width",
+      "value": "30vp"
+    },
+    {
+      "name": "day_review_tag_value_width",
+      "value": "45vp"
+    },
+    {
+      "name": "day_review_tag_value_font_size",
+      "value": "11fp"
+    },
+    {
+      "name": "day_review_total_label_font_size",
+      "value": "13fp"
+    },
+    {
+      "name": "day_review_total_time_margin_top",
+      "value": "6vp"
+    },
+    {
+      "name": "day_review_total_hours_font_size",
+      "value": "36fp"
+    },
+    {
+      "name": "day_review_total_value_font_size",
+      "value": "28fp"
+    },
+    {
+      "name": "day_review_tag_label_width_large",
+      "value": "56vp"
+    },
+    {
+      "name": "day_review_tag_value_width_large",
+      "value": "40vp"
+    },
+    {
+      "name": "reflect_calendar_collapsed_height",
+      "value": "352vp"
+    }
+  ]
+}

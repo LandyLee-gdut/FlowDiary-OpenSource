@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "common_confirm",
+      "value": "确定"
+    },
+    {
+      "name": "card_margin",
+      "value": "4"
+    },
+    {
+      "name": "goalfighter_not_installed_toast",
+      "value": "未安装 GoalFighter"
+    },
+    {
+      "name": "goalfighter_opening_toast",
+      "value": "正在打开 GoalFighter"
+    },
+    {
+      "name": "goalfighter_open_failed_toast",
+      "value": "打开 GoalFighter 失败，请重试"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "module": {
+    "name": "ideapool",
+    "type": "har",
+    "description": "$string:module_desc",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1",
+      "wearable"
+    ],
+    "installationFree": false,
+    "routerMap": "$profile:router_map",
+  }
+}

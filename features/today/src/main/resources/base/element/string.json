@@ -1,0 +1,596 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "流光记"
+    },
+    {
+      "name": "dialog_message_1",
+      "value": "倒计时结束"
+    },
+    {
+      "name": "dialog_message_2",
+      "value": "达到计时时间上限"
+    },
+    {
+      "name": "today_permission_vibrate_desc",
+      "value": "用于提供操作时的振动反馈"
+    },
+    {
+      "name": "come_and_record",
+      "value": "赶紧记录起来吧～"
+    },
+    {
+      "name": "come_and_record_2",
+      "value": "赶紧记录下来吧！"
+    },
+    {
+      "name": "add_today_activity",
+      "value": "添加今日事项"
+    },
+    {
+      "name": "add",
+      "value": "添加"
+    },
+    {
+      "name": "start_directly",
+      "value": "直接记录"
+    },
+    {
+      "name": "dark_mode",
+      "value": "深色模式"
+    },
+    {
+      "name": "item_name",
+      "value": "事项名称"
+    },
+    {
+      "name": "setting_short_cut",
+      "value": "快捷启动项设置"
+    },
+    {
+      "name": "setting_short_cut_detail",
+      "value": "* 长按底部按钮时会按顺序展开快捷启动事项\n滑动选择进行快速记录"
+    },
+    {
+      "name": "setting_today",
+      "value": "快捷设置"
+    },
+    {
+      "name": "add_a_emoji",
+      "value": "(添加一个表情吧!)"
+    },
+    {
+      "name": "icon",
+      "value": " 图标"
+    },
+    {
+      "name": "tag",
+      "value": " 标签"
+    },
+    {
+      "name": "long_press_edit",
+      "value": "(长按编辑)"
+    },
+    {
+      "name": "default_directly_record",
+      "value": "默认直接记录事项"
+    },
+    {
+      "name": "multi_device_sync",
+      "value": "跨设备数据同步 (实验功能)"
+    },
+    {
+      "name": "default_use_panel",
+      "value": "数据面板图表"
+    },
+    {
+      "name": "data_panel_chart_pie",
+      "value": "饼图"
+    },
+    {
+      "name": "data_panel_chart_line",
+      "value": "线图"
+    },
+    {
+      "name": "data_panel_duration_hour_unit",
+      "value": "h"
+    },
+    {
+      "name": "data_panel_duration_minute_unit",
+      "value": "m"
+    },
+    {
+      "name": "data_panel_distribution_separator",
+      "value": " · "
+    },
+    {
+      "name": "data_panel_percentage_unit",
+      "value": "%"
+    },
+    {
+      "name": "tag_settings_entry",
+      "value": "标签设置"
+    },
+    {
+      "name": "tag_settings_entry_desc",
+      "value": "管理标签名称和颜色"
+    },
+    {
+      "name": "tag_settings_title",
+      "value": "标签设置"
+    },
+    {
+      "name": "tag_settings_empty_title",
+      "value": "暂无标签"
+    },
+    {
+      "name": "tag_settings_empty_desc",
+      "value": "点击下方按钮创建第一个标签"
+    },
+    {
+      "name": "tag_settings_edit_text",
+      "value": "编辑"
+    },
+    {
+      "name": "tag_settings_add_button",
+      "value": "新建标签"
+    },
+    {
+      "name": "tag_settings_color_prefix",
+      "value": "颜色"
+    },
+    {
+      "name": "tag_settings_create_success",
+      "value": "标签已创建"
+    },
+    {
+      "name": "tag_settings_update_success",
+      "value": "标签已更新"
+    },
+    {
+      "name": "tag_settings_delete_success",
+      "value": "标签已删除"
+    },
+    {
+      "name": "tag_settings_delete_failed",
+      "value": "删除标签失败"
+    },
+    {
+      "name": "tag_settings_delete_error",
+      "value": "删除标签时发生错误"
+    },
+    {
+      "name": "ideapool_unlit_first",
+      "value": "灵感池未点亮置顶"
+    },
+    {
+      "name": "ideapool_unlit_first_detail",
+      "value": "灵感池优先显示未点亮的灵感"
+    },
+    {
+      "name": "ideapool_unlit_first_toast_on",
+      "value": "灵感池列表将未点亮置顶"
+    },
+    {
+      "name": "ideapool_unlit_first_toast_off",
+      "value": "灵感池列表将已点亮置顶"
+    },
+    {
+      "name": "ideapool_direct_record",
+      "value": "灵感添加后直接记录"
+    },
+    {
+      "name": "ideapool_direct_record_detail",
+      "value": "开启后新建灵感将直接开始记录"
+    },
+    {
+      "name": "ideapool_direct_record_toast_on",
+      "value": "新建灵感将直接开始记录"
+    },
+    {
+      "name": "ideapool_direct_record_toast_off",
+      "value": "新建灵感将先添加为待办"
+    },
+    {
+      "name": "backup_section_title",
+      "value": "数据备份"
+    },
+    {
+      "name": "backup_manual_export",
+      "value": "手动导出本地备份"
+    },
+    {
+      "name": "backup_manual_export_desc",
+      "value": "导出为备份文件"
+    },
+    {
+      "name": "backup_manual_import",
+      "value": "手动导入本地备份"
+    },
+    {
+      "name": "backup_manual_import_desc",
+      "value": "从备份文件恢复"
+    },
+    {
+      "name": "backup_restore_auto",
+      "value": "从自动备份恢复"
+    },
+    {
+      "name": "backup_restore_auto_desc",
+      "value": "从下载目录选择备份"
+    },
+    {
+      "name": "backup_auto_toggle",
+      "value": "自动备份"
+    },
+    {
+      "name": "backup_auto_enabled",
+      "value": "已开启"
+    },
+    {
+      "name": "backup_auto_disabled",
+      "value": "已关闭"
+    },
+    {
+      "name": "backup_auto_last_run_prefix",
+      "value": "上次："
+    },
+    {
+      "name": "backup_auto_last_error_prefix",
+      "value": "错误："
+    },
+    {
+      "name": "backup_auto_enabled_toast",
+      "value": "自动备份已开启"
+    },
+    {
+      "name": "backup_auto_disabled_toast",
+      "value": "自动备份已关闭"
+    },
+    {
+      "name": "backup_zip_filter",
+      "value": "备份文件"
+    },
+    {
+      "name": "backup_progress_preparing",
+      "value": "正在准备备份…"
+    },
+    {
+      "name": "backup_progress_compressing",
+      "value": "正在压缩…"
+    },
+    {
+      "name": "backup_progress_saving",
+      "value": "正在保存…"
+    },
+    {
+      "name": "backup_progress_validating",
+      "value": "正在校验…"
+    },
+    {
+      "name": "backup_progress_restoring",
+      "value": "正在恢复…"
+    },
+    {
+      "name": "backup_progress_refreshing",
+      "value": "正在刷新…"
+    },
+    {
+      "name": "backup_error_invalid",
+      "value": "备份文件无法识别"
+    },
+    {
+      "name": "backup_error_permission",
+      "value": "没有权限访问备份目录"
+    },
+    {
+      "name": "backup_error_unsupported",
+      "value": "当前设备不支持该操作"
+    },
+    {
+      "name": "backup_error_io",
+      "value": "内存不足或无法写入，请重试"
+    },
+    {
+      "name": "backup_error_cancelled",
+      "value": "已取消"
+    },
+    {
+      "name": "backup_error_busy",
+      "value": "备份处理中，请稍后"
+    },
+    {
+      "name": "backup_error_generic",
+      "value": "操作失败，请稍后重试"
+    },
+    {
+      "name": "backup_restore_confirm_title",
+      "value": "恢复数据"
+    },
+    {
+      "name": "backup_restore_confirm_message",
+      "value": "此操作会覆盖本地数据，是否继续？"
+    },
+    {
+      "name": "backup_restore_confirm_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "backup_restore_confirm_continue",
+      "value": "继续"
+    },
+    {
+      "name": "backup_export_success_prefix",
+      "value": "已保存到："
+    },
+    {
+      "name": "backup_restore_cancelled",
+      "value": "已取消恢复"
+    },
+    {
+      "name": "backup_restore_success",
+      "value": "数据已恢复"
+    },
+    {
+      "name": "today_comment_no_save",
+      "value": "没有需要保存的评论"
+    },
+    {
+      "name": "today_record_widget_total_label",
+      "value": "总时长"
+    },
+    {
+      "name": "tag_distribution_widget_label",
+      "value": "标签分布"
+    },
+    {
+      "name": "tag_distribution_widget_empty",
+      "value": "暂无数据"
+    },
+    {
+      "name": "auto_stop_settings_entry",
+      "value": "自动停止记录"
+    },
+    {
+      "name": "auto_stop_settings_disabled",
+      "value": "已关闭"
+    },
+    {
+      "name": "auto_stop_settings_summary_suffix",
+      "value": "后自动停止"
+    },
+    {
+      "name": "auto_stop_settings_switch_detail",
+      "value": "达到设定时长后自动停止当前记录"
+    },
+    {
+      "name": "auto_stop_settings_limit_title",
+      "value": "自动停止时长"
+    },
+    {
+      "name": "auto_stop_settings_limit_detail",
+      "value": "按 0.5 小时步进调整，范围 0.5 至 24 小时"
+    },
+    {
+      "name": "auto_stop_settings_input_placeholder",
+      "value": "0.5"
+    },
+    {
+      "name": "auto_stop_settings_input_unit",
+      "value": "小时"
+    },
+    {
+      "name": "auto_stop_settings_limit_invalid_toast",
+      "value": "请输入 0.5 到 24 之间的数字，且步进为 0.5 小时"
+    },
+    {
+      "name": "auto_stop_settings_future_only",
+      "value": "设置修改仅影响之后新开始的记录"
+    },
+    {
+      "name": "settings_title",
+      "value": "设置"
+    },
+    {
+      "name": "settings_section_function",
+      "value": "功能设置"
+    },
+    {
+      "name": "settings_section_personalization",
+      "value": "个性化"
+    },
+    {
+      "name": "settings_section_data_support",
+      "value": "数据与支持"
+    },
+    {
+      "name": "settings_entry_record",
+      "value": "记录与今日"
+    },
+    {
+      "name": "settings_entry_calendar_sync",
+      "value": "日历同步"
+    },
+    {
+      "name": "settings_entry_tag",
+      "value": "标签管理"
+    },
+    {
+      "name": "settings_entry_idea_pool",
+      "value": "灵感池"
+    },
+    {
+      "name": "settings_entry_reflect_chart",
+      "value": "回顾图表"
+    },
+    {
+      "name": "settings_entry_appearance",
+      "value": "外观与交互"
+    },
+    {
+      "name": "settings_entry_quick_launch",
+      "value": "快捷启动项"
+    },
+    {
+      "name": "settings_entry_backup",
+      "value": "数据与备份"
+    },
+    {
+      "name": "settings_entry_about",
+      "value": "帮助与关于"
+    },
+    {
+      "name": "backup_auto_toggle_detail",
+      "value": "应用运行期间每天自动创建备份"
+    },
+    {
+      "name": "settings_about_user_guide",
+      "value": "了解「FlowDiary 流光」"
+    },
+    {
+      "name": "settings_about_user_guide_detail",
+      "value": "查看功能介绍和使用方式"
+    },
+    {
+      "name": "settings_direct_record_detail",
+      "value": "新建事项后立即开始记录"
+    },
+    {
+      "name": "settings_theme_system",
+      "value": "系统"
+    },
+    {
+      "name": "settings_theme_light",
+      "value": "浅色"
+    },
+    {
+      "name": "settings_theme_dark",
+      "value": "深色"
+    },
+    {
+      "name": "settings_floating_action_bar",
+      "value": "悬浮标签栏"
+    },
+    {
+      "name": "settings_floating_action_bar_detail",
+      "value": "修改后需要重启应用"
+    },
+    {
+      "name": "settings_holding_hand",
+      "value": "智感握持"
+    },
+    {
+      "name": "settings_holding_hand_detail",
+      "value": "根据握持手调整按钮位置"
+    },
+    {
+      "name": "settings_holding_hand_offset",
+      "value": "高度偏移"
+    },
+    {
+      "name": "settings_reflect_tab_visibility",
+      "value": "显示"
+    },
+    {
+      "name": "settings_reflect_tab_order",
+      "value": "排序"
+    },
+    {
+      "name": "settings_reflect_reset",
+      "value": "恢复默认"
+    },
+    {
+      "name": "settings_reflect_reset_confirm_title",
+      "value": "恢复默认图表设置？"
+    },
+    {
+      "name": "settings_reflect_reset_confirm_message",
+      "value": "将重置图表显示状态和顺序，确认继续吗？"
+    },
+    {
+      "name": "settings_reflect_reset_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "settings_reflect_reset_confirm",
+      "value": "恢复默认"
+    },
+    {
+      "name": "today_share_to_goalfighter",
+      "value": "分享到 GoalFighter"
+    },
+    {
+      "name": "today_share_no_finished_records",
+      "value": "该事项暂无已完成的计时记录"
+    },
+    {
+      "name": "today_share_record_not_finished",
+      "value": "该记录尚未结束，暂不能分享"
+    },
+    {
+      "name": "today_share_failed_toast",
+      "value": "分享失败，请重试"
+    },
+    {
+      "name": "today_voice_input_action",
+      "value": "语音输入"
+    },
+    {
+      "name": "today_voice_input_icon",
+      "value": "🎙️"
+    },
+    {
+      "name": "today_voice_input_ui_placeholder",
+      "value": "语音输入功能将在下一步接入"
+    },
+    {
+      "name": "today_voice_input_status_listening",
+      "value": "正在语音输入…"
+    },
+    {
+      "name": "today_voice_input_status_finalizing",
+      "value": "正在识别…"
+    },
+    {
+      "name": "today_voice_input_status_permission",
+      "value": "请允许使用麦克风"
+    },
+    {
+      "name": "today_voice_input_unsupported",
+      "value": "当前设备不支持语音识别"
+    },
+    {
+      "name": "today_voice_input_permission_denied",
+      "value": "未获得麦克风权限，无法使用语音输入"
+    },
+    {
+      "name": "today_voice_input_permission_granted_retry",
+      "value": "已授权，请再次长按滑到语音项开始输入"
+    },
+    {
+      "name": "today_voice_input_no_speech",
+      "value": "未识别到内容，请重试"
+    },
+    {
+      "name": "today_voice_input_recognition_failed",
+      "value": "语音识别失败，请重试"
+    },
+    {
+      "name": "today_voice_input_hint_retry",
+      "value": "请长按并滑到语音项开始语音输入"
+    },
+    {
+      "name": "today_permission_microphone_desc",
+      "value": "用于语音输入识别事项名称。"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "primary_lighter",
+      "value": "#E6F0FF"
+    },
+    {
+      "name": "primary_light",
+      "value": "#B3D1FF"
+    },
+    {
+      "name": "primary",
+      "value": "#4D94FF"
+    },
+    {
+      "name": "accent_lighter",
+      "value": "#FFF7E6"
+    },
+    {
+      "name": "accent_light",
+      "value": "#FFDCA8"
+    },
+    {
+      "name": "accent",
+      "value": "#CBFFC166"
+    },
+    {
+      "name": "accent_dark",
+      "value": "#E6A23A"
+    },
+    {
+      "name": "accent_darker",
+      "value": "#955416"
+    },
+    {
+      "name": "summary_lit_background",
+      "value": "#FFFBEA"
+    },
+    {
+      "name": "summary_lit_border",
+      "value": "#fff6ce"
+    },
+    {
+      "name": "neutral_100",
+      "value": "#F4F6F8"
+    },
+    {
+      "name": "neutral_200",
+      "value": "#E8EBED"
+    },
+    {
+      "name": "neutral_300",
+      "value": "#D1D9E0"
+    },
+    {
+      "name": "neutral_500",
+      "value": "#8A9BA8"
+    },
+    {
+      "name": "bg_card",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "bg_main",
+      "value": "#FFF8F7F8"
+    },
+    {
+      "name": "text_primary",
+      "value": "#1F2326"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#4E5D66"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#8A9BA8"
+    },
+    {
+      "name": "text_disabled",
+      "value": "#D1D9E0"
+    },
+    {
+      "name": "text_on_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "cover_glass_text_shadow",
+      "value": "#B3FFFFFF"
+    },
+    {
+      "name": "cover_glass_scrim_start",
+      "value": "#00F2F4F6"
+    },
+    {
+      "name": "cover_glass_scrim_end",
+      "value": "#73F2F4F6"
+    },
+    {
+      "name": "warning",
+      "value": "#F5BF3B"
+    },
+    {
+      "name": "warning_light",
+      "value": "#FFE8A0"
+    },
+    {
+      "name": "add_idea_ball_flow_gold_light",
+      "value": "#FFE6A7"
+    },
+    {
+      "name": "add_idea_ball_flow_gold_pale",
+      "value": "#FFF3CE"
+    },
+    {
+      "name": "add_idea_ball_glass_top",
+      "value": "#59FFFFFF"
+    },
+    {
+      "name": "add_idea_ball_glass_bottom",
+      "value": "#66F5BF3B"
+    },
+    {
+      "name": "immersive_glow_primary",
+      "value": "#38B6FF"
+    },
+    {
+      "name": "immersive_glow_warning",
+      "value": "#FFD391"
+    },
+    {
+      "name": "immersive_glow_accent",
+      "value": "#FFC87D"
+    },
+    {
+      "name": "immersive_glow_error",
+      "value": "#FFADA1"
+    },
+    {
+      "name": "error",
+      "value": "#E35C4D"
+    },
+    {
+      "name": "error_light",
+      "value": "#FFE5E2"
+    },
+    {
+      "name": "sky_sunset_gold",
+      "value": "#FFD580"
+    },
+    {
+      "name": "tag_placeholder_gray",
+      "value": "#808080"
+    },
+    {
+      "name": "overlay_mask",
+      "value": "#80000000"
+    },
+    {
+      "name": "input_border",
+      "value": "#D1D9E0"
+    },
+    {
+      "name": "ideapool_collection_selector_selected_bg",
+      "value": "#3F5D3A"
+    },
+    {
+      "name": "ideapool_collection_selector_selected_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "ideapool_expand_tag_dot",
+      "value": "#9B7BFF"
+    },
+    {
+      "name": "ideapool_expand_info_birth_bg",
+      "value": "#E8F7ED"
+    },
+    {
+      "name": "ideapool_expand_info_birth_icon",
+      "value": "#4CAF6A"
+    },
+    {
+      "name": "ideapool_expand_info_touch_bg",
+      "value": "#EAF1FF"
+    },
+    {
+      "name": "ideapool_expand_info_touch_icon",
+      "value": "#5B7CFA"
+    },
+    {
+      "name": "ideapool_add_ball_shadow",
+      "value": "#80FFD580"
+    },
+    {
+      "name": "ideapool_card_shadow_lit",
+      "value": "#26FFB432"
+    },
+    {
+      "name": "ideapool_card_shadow_default",
+      "value": "#08000000"
+    },
+    {
+      "name": "ideapool_expand_card_shadow_min",
+      "value": "#03000000"
+    }
+  ]
+}

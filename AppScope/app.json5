@@ -1,0 +1,10 @@
+{
+  "app": {
+    "bundleName": "com.landylee.flowdiary",
+    "vendor": "example",
+    "versionCode": 100205,
+    "versionName": "1.2.5",
+    "icon": "$media:layered_image",
+    "label": "$string:app_name"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "ReflectAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "ReflectAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "month_panel_title",
+      "value": "日历视图"
+    },
+    {
+      "name": "month_panel_subtitle",
+      "value": "月度"
+    },
+    {
+      "name": "no_record",
+      "value": "这一天还没有记录～"
+    },
+    {
+      "name": "reflect_comment_no_save",
+      "value": "没有需要保存的评论"
+    }
+  ]
+}

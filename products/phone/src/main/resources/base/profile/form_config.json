@@ -1,0 +1,156 @@
+{
+  "forms": [
+    {
+      "name": "todayRecordWidget",
+      "displayName": "$string:todayRecordWidget_display_name",
+      "description": "$string:todayRecordWidget_desc",
+      "src": "./ets/todayrecordwidget/pages/TodayRecordWidgetCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "colorMode": "auto",
+      "isDynamic": true,
+      "isDefault": true,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 60,
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2",
+        "2*4"
+      ]
+    },
+    {
+      "name": "TodayOverview",
+      "displayName": "$string:TodayOverview_display_name",
+      "description": "$string:TodayOverview_desc",
+      "src": "./ets/todayoverview/pages/TodayOverviewCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "colorMode": "auto",
+      "isDynamic": true,
+      "isDefault": false,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 60,
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "1*2",
+        "2*2"
+      ]
+    },
+    {
+      "name": "TodayTimer",
+      "displayName": "$string:TodayTimer_display_name",
+      "description": "$string:TodayTimer_desc",
+      "src": "./ets/todaytimerwidget/pages/TodayTimerCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "colorMode": "auto",
+      "isDynamic": true,
+      "isDefault": false,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 60,
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2"
+      ]
+    },
+    {
+      "name": "IdeaSnapshot",
+      "displayName": "$string:IdeaSnapshot_display_name",
+      "description": "$string:IdeaSnapshot_desc",
+      "src": "./ets/ideasnapshot/pages/IdeaSnapshotCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "colorMode": "auto",
+      "isDynamic": true,
+      "isDefault": false,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 60,
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "1*2",
+        "2*2"
+      ]
+    },
+    {
+      "name": "TagDistribution",
+      "displayName": "$string:TagDistribution_display_name",
+      "description": "$string:TagDistribution_desc",
+      "src": "./ets/tagdistribution/pages/TagDistributionCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "colorMode": "auto",
+      "isDynamic": true,
+      "isDefault": false,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 60,
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2",
+        "2*4"
+      ]
+    },
+    {
+      "name": "ReflectToday",
+      "displayName": "$string:ReflectToday_display_name",
+      "description": "$string:ReflectToday_desc",
+      "src": "./ets/reflecttoday/pages/ReflectTodayCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "colorMode": "auto",
+      "isDynamic": true,
+      "isDefault": false,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 60,
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2"
+      ]
+    },
+    {
+      "name": "ShortCut",
+      "displayName": "$string:ShortCut_display_name",
+      "description": "$string:ShortCut_desc",
+      "src": "./ets/shortcut/pages/ShortCutCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "colorMode": "auto",
+      "formConfigAbility": "ability://TodayShortcutFormEditAbility",
+      "isDynamic": true,
+      "isDefault": false,
+      "updateEnabled": false,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 60,
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "IdeapoolAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "IdeapoolAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "move_to_today",
+      "value": "移入今日"
+    },
+    {
+      "name": "no_idea_yet",
+      "value": "有灵感了，随时记录"
+    },
+    {
+      "name": "add_a_emoji",
+      "value": "(添加一个表情吧!)"
+    },
+    {
+      "name": "icon",
+      "value": " 图标"
+    },
+    {
+      "name": "tag",
+      "value": " 标签"
+    },
+    {
+      "name": "long_press_edit",
+      "value": "(长按编辑)"
+    },
+    {
+      "name": "ideapool_section_unlit",
+      "value": "待点亮的灵感"
+    },
+    {
+      "name": "ideapool_summary_unlit",
+      "value": "待点亮灵感"
+    },
+    {
+      "name": "ideapool_section_lit",
+      "value": "已点亮的灵感"
+    },
+    {
+      "name": "ideapool_summary_lit",
+      "value": "已点亮灵感"
+    },
+    {
+      "name": "ideapool_summary_lit_times",
+      "value": "点亮次数"
+    },
+    {
+      "name": "ideapool_collection_empty_title",
+      "value": "这个灵感集还是空的"
+    },
+    {
+      "name": "ideapool_collection_empty_action",
+      "value": "添加第一个灵感"
+    },
+    {
+      "name": "ideapool_collection_add_new",
+      "value": "新建灵感集"
+    },
+    {
+      "name": "ideapool_collection_add_plus",
+      "value": "+"
+    },
+    {
+      "name": "ideapool_collection_add_title",
+      "value": "新建灵感集"
+    },
+    {
+      "name": "ideapool_collection_header_new",
+      "value": "新建灵感集"
+    },
+    {
+      "name": "ideapool_collection_add_action",
+      "value": "创建"
+    },
+    {
+      "name": "ideapool_collection_add_action_saving",
+      "value": "创建中"
+    },
+    {
+      "name": "ideapool_collection_edit_title",
+      "value": "编辑灵感集"
+    },
+    {
+      "name": "ideapool_collection_header_edit",
+      "value": "编辑灵感集"
+    },
+    {
+      "name": "ideapool_collection_edit_action",
+      "value": "保存"
+    },
+    {
+      "name": "ideapool_collection_edit_action_saving",
+      "value": "保存中"
+    },
+    {
+      "name": "ideapool_idea_action_saving",
+      "value": "保存中"
+    },
+    {
+      "name": "ideapool_collection_edit_success",
+      "value": "灵感集已更新"
+    },
+    {
+      "name": "ideapool_collection_edit_failed",
+      "value": "更新失败，请重试"
+    },
+    {
+      "name": "ideapool_collection_name_label",
+      "value": "灵感集名称"
+    },
+    {
+      "name": "ideapool_collection_name_placeholder",
+      "value": "给灵感集起个名字吧"
+    },
+    {
+      "name": "ideapool_collection_desc_label",
+      "value": "简介"
+    },
+    {
+      "name": "ideapool_collection_desc_placeholder",
+      "value": "描述一下这个灵感集的主题..."
+    },
+    {
+      "name": "ideapool_collection_tag_label",
+      "value": "标签"
+    },
+    {
+      "name": "ideapool_collection_emoji_label",
+      "value": "表情"
+    },
+    {
+      "name": "ideapool_collection_name_required",
+      "value": "请填写灵感集名称"
+    },
+    {
+      "name": "ideapool_collection_add_failed",
+      "value": "创建失败，请重试"
+    },
+    {
+      "name": "ideapool_collection_default_emoji",
+      "value": "☕️"
+    },
+    {
+      "name": "ideapool_collection_default_icon",
+      "value": "🗂️"
+    },
+    {
+      "name": "ideapool_collection_selector_label",
+      "value": "归属灵感集"
+    },
+    {
+      "name": "ideapool_collection_loose_label",
+      "value": "散落灵感"
+    },
+    {
+      "name": "ideapool_collection_loose_icon",
+      "value": "🌙"
+    },
+    {
+      "name": "ideapool_expand_status_unlit_title",
+      "value": "待点亮"
+    },
+    {
+      "name": "ideapool_expand_status_lit_title",
+      "value": "已点亮"
+    },
+    {
+      "name": "ideapool_expand_status_subtitle",
+      "value": "当前状态"
+    },
+    {
+      "name": "ideapool_expand_light_count_subtitle",
+      "value": "动力点亮"
+    },
+    {
+      "name": "ideapool_expand_light_count_unit",
+      "value": "次"
+    },
+    {
+      "name": "ideapool_expand_recent_subtitle",
+      "value": "最近更新"
+    },
+    {
+      "name": "ideapool_expand_birth_label",
+      "value": "创建于"
+    },
+    {
+      "name": "ideapool_expand_recent_label",
+      "value": "最近更新"
+    },
+    {
+      "name": "ideapool_expand_tag_fallback",
+      "value": "无标签"
+    },
+    {
+      "name": "ideapool_expand_back_hint",
+      "value": "上/下滑或轻点空白返回"
+    },
+    {
+      "name": "ideapool_expand_rollback_title",
+      "value": "确认回退灵感？"
+    },
+    {
+      "name": "ideapool_expand_rollback_message",
+      "value": "回退后会清空点亮记录，灵感将回到未点亮状态。"
+    },
+    {
+      "name": "ideapool_expand_rollback_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "ideapool_expand_rollback_confirm",
+      "value": "确认"
+    },
+    {
+      "name": "ideapool_collection_menu_change_cover",
+      "value": "更换封面"
+    },
+    {
+      "name": "ideapool_collection_menu_reset_cover",
+      "value": "恢复默认封面"
+    },
+    {
+      "name": "ideapool_cover_picker_failed",
+      "value": "打开相册失败"
+    },
+    {
+      "name": "ideapool_cover_save_failed",
+      "value": "封面保存失败"
+    },
+    {
+      "name": "ideapool_cover_reset_done",
+      "value": "已恢复默认封面"
+    },
+    {
+      "name": "ideapool_collection_idea_count",
+      "value": "%d个灵感"
+    },
+    {
+      "name": "ideapool_sort_cross_group_rejected",
+      "value": "已点亮和未点亮灵感不能混合排序"
+    },
+    {
+      "name": "ideapool_sort_save_failed",
+      "value": "排序保存失败，已恢复原顺序"
+    }
+  ]
+}

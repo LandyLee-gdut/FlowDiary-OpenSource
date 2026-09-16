@@ -1,0 +1,12 @@
+{
+  "name": "reflect",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    'base': 'file:../../common/base',
+    '@ohmos/calendar': '^1.0.0',
+  }
+}

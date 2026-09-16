@@ -1,0 +1,13 @@
+{
+  "modelVersion": "6.0.2",
+  "description": "Please describe the basic information.",
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "@wuyan/hm_chart": "^2.0.4",
+    "@mcui/mccharts": "^2.8.9",
+    "@keke/color-picker": "^1.0.4",
+    "@ohos/mpchart": "^3.0.26"
+  },
+  "devDependencies": {},
+  "dynamicDependencies": {}
+}

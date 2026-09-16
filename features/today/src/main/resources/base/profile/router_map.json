@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "MatterItemEditPage",
+      "pageSourceFile": "src/main/ets/component/MatterItemEditPage.ets",
+      "buildFunction": "MatterItemEditPageBuilder",
+      "data": {
+        "description": "this is MatterItemEditPage"
+      }
+    }
+  ]
+}

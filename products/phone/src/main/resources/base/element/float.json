@@ -1,0 +1,768 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "today_record_widget_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "today_record_widget_label_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "today_record_widget_label_letter_spacing",
+      "value": "1fp"
+    },
+    {
+      "name": "today_record_widget_label_margin_bottom",
+      "value": "6vp"
+    },
+    {
+      "name": "today_record_widget_list_gap",
+      "value": "4vp"
+    },
+    {
+      "name": "today_record_widget_item_dot_size",
+      "value": "8vp"
+    },
+    {
+      "name": "today_record_widget_dot_radius",
+      "value": "4vp"
+    },
+    {
+      "name": "today_record_widget_item_dot_gap",
+      "value": "10vp"
+    },
+    {
+      "name": "today_record_widget_item_name_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "today_record_widget_item_duration_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "today_record_widget_time_letter_spacing",
+      "value": "0fp"
+    },
+    {
+      "name": "today_record_widget_item_duration_margin_left",
+      "value": "6vp"
+    },
+    {
+      "name": "today_record_widget_list_divider_spacing",
+      "value": "16vp"
+    },
+    {
+      "name": "today_record_widget_empty_opacity",
+      "value": "0.6"
+    },
+    {
+      "name": "today_record_widget_divider_width",
+      "value": "1vp"
+    },
+    {
+      "name": "today_record_widget_summary_padding_left",
+      "value": "12vp"
+    },
+    {
+      "name": "today_record_widget_total_label_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "today_record_widget_total_hours_font_size",
+      "value": "30fp"
+    },
+    {
+      "name": "today_record_widget_total_letter_spacing",
+      "value": "0fp"
+    },
+    {
+      "name": "today_record_widget_total_value_font_size",
+      "value": "24fp"
+    },
+    {
+      "name": "today_record_widget_total_value_margin_top",
+      "value": "4vp"
+    },
+    {
+      "name": "today_record_widget_add_button_size",
+      "value": "40vp"
+    },
+    {
+      "name": "today_record_widget_add_symbol_font_size",
+      "value": "20fp"
+    },
+    {
+      "name": "today_record_widget_refresh_button_size",
+      "value": "28vp"
+    },
+    {
+      "name": "today_record_widget_refresh_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "today_record_widget_refresh_padding_horizontal",
+      "value": "8vp"
+    },
+    {
+      "name": "today_record_widget_refresh_padding_vertical",
+      "value": "4vp"
+    },
+    {
+      "name": "today_record_widget_refresh_radius",
+      "value": "12vp"
+    },
+    {
+      "name": "today_overview_widget_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "today_overview_widget_label_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "today_overview_widget_label_letter_spacing",
+      "value": "1fp"
+    },
+    {
+      "name": "today_overview_widget_title_margin_top",
+      "value": "15vp"
+    },
+    {
+      "name": "today_overview_widget_hours_font_size",
+      "value": "32fp"
+    },
+    {
+      "name": "today_overview_widget_time_letter_spacing",
+      "value": "0fp"
+    },
+    {
+      "name": "today_overview_widget_hours_unit_font_size",
+      "value": "22fp"
+    },
+    {
+      "name": "today_overview_widget_minutes_font_size",
+      "value": "24fp"
+    },
+    {
+      "name": "today_overview_widget_minutes_unit_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "today_overview_widget_minutes_margin_top",
+      "value": "4vp"
+    },
+    {
+      "name": "today_overview_widget_unit_margin_left",
+      "value": "2vp"
+    },
+    {
+      "name": "today_overview_widget_unit_opacity",
+      "value": "0.6"
+    },
+    {
+      "name": "today_overview_widget_minutes_opacity",
+      "value": "0.8"
+    },
+    {
+      "name": "today_overview_widget_item_label_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "today_overview_widget_item_count_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "today_overview_widget_item_gap",
+      "value": "2vp"
+    },
+    {
+      "name": "today_overview_widget_action_size",
+      "value": "32vp"
+    },
+    {
+      "name": "today_overview_widget_action_icon_size",
+      "value": "18fp"
+    },
+    {
+      "name": "today_overview_widget_small_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "today_overview_widget_small_label_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "today_overview_widget_small_title_margin_top",
+      "value": "8vp"
+    },
+    {
+      "name": "today_overview_widget_small_time_font_size",
+      "value": "24fp"
+    },
+    {
+      "name": "today_overview_widget_small_unit_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "today_overview_widget_small_time_gap",
+      "value": "6vp"
+    },
+    {
+      "name": "today_timer_widget_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "today_timer_widget_empty_gap",
+      "value": "8vp"
+    },
+    {
+      "name": "today_timer_widget_empty_icon_size",
+      "value": "40vp"
+    },
+    {
+      "name": "today_timer_widget_empty_icon_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "today_timer_widget_empty_icon_opacity",
+      "value": "0.6"
+    },
+    {
+      "name": "today_timer_widget_empty_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "today_timer_widget_content_gap",
+      "value": "6vp"
+    },
+    {
+      "name": "today_timer_widget_status_gap",
+      "value": "6vp"
+    },
+    {
+      "name": "today_timer_widget_status_dot_size",
+      "value": "8vp"
+    },
+    {
+      "name": "today_timer_widget_status_dot_radius",
+      "value": "4vp"
+    },
+    {
+      "name": "today_timer_widget_status_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "today_timer_widget_status_letter_spacing",
+      "value": "1fp"
+    },
+    {
+      "name": "today_timer_widget_title_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "today_timer_widget_title_line_height",
+      "value": "18fp"
+    },
+    {
+      "name": "today_timer_widget_timer_font_size",
+      "value": "30fp"
+    },
+    {
+      "name": "today_timer_widget_timer_letter_spacing",
+      "value": "0fp"
+    },
+    {
+      "name": "today_timer_widget_glow_size",
+      "value": "96vp"
+    },
+    {
+      "name": "today_timer_widget_glow_radius",
+      "value": "48vp"
+    },
+    {
+      "name": "today_timer_widget_glow_opacity",
+      "value": "0.1"
+    },
+    {
+      "name": "today_timer_widget_glow_offset_x",
+      "value": "-24vp"
+    },
+    {
+      "name": "today_timer_widget_glow_offset_y",
+      "value": "-24vp"
+    },
+    {
+      "name": "idea_snapshot_widget_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "idea_snapshot_widget_card_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "idea_snapshot_widget_label_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "idea_snapshot_widget_label_letter_spacing",
+      "value": "1fp"
+    },
+    {
+      "name": "idea_snapshot_widget_label_gap",
+      "value": "6vp"
+    },
+    {
+      "name": "idea_snapshot_widget_label_margin_bottom",
+      "value": "2vp"
+    },
+    {
+      "name": "idea_snapshot_widget_icon_size",
+      "value": "14fp"
+    },
+    {
+      "name": "idea_snapshot_widget_count_font_size",
+      "value": "36fp"
+    },
+    {
+      "name": "idea_snapshot_widget_count_line_height",
+      "value": "24fp"
+    },
+    {
+      "name": "idea_snapshot_widget_action_size",
+      "value": "32vp"
+    },
+    {
+      "name": "idea_snapshot_widget_action_icon_size",
+      "value": "18fp"
+    },
+    {
+      "name": "idea_snapshot_widget_action_offset",
+      "value": "-4vp"
+    },
+    {
+      "name": "idea_snapshot_widget_bottom_margin_top",
+      "value": "8vp"
+    },
+    {
+      "name": "idea_snapshot_widget_bottom_padding_top",
+      "value": "12vp"
+    },
+    {
+      "name": "idea_snapshot_widget_divider_width",
+      "value": "1vp"
+    },
+    {
+      "name": "idea_snapshot_widget_divider_opacity",
+      "value": "0.5"
+    },
+    {
+      "name": "idea_snapshot_widget_recent_label_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "idea_snapshot_widget_recent_label_margin_bottom",
+      "value": "4vp"
+    },
+    {
+      "name": "idea_snapshot_widget_recent_content_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "idea_snapshot_widget_recent_content_line_height",
+      "value": "16fp"
+    },
+    {
+      "name": "idea_snapshot_widget_small_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "idea_snapshot_widget_small_label_gap",
+      "value": "4vp"
+    },
+    {
+      "name": "idea_snapshot_widget_small_action_gap",
+      "value": "6vp"
+    },
+    {
+      "name": "idea_snapshot_widget_small_count_font_size",
+      "value": "28fp"
+    },
+    {
+      "name": "idea_snapshot_widget_small_count_line_height",
+      "value": "20fp"
+    },
+    {
+      "name": "idea_snapshot_widget_small_card_radius",
+      "value": "0vp"
+    },
+    {
+      "name": "tag_distribution_widget_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "tag_distribution_widget_title_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "tag_distribution_widget_title_letter_spacing",
+      "value": "1fp"
+    },
+    {
+      "name": "tag_distribution_widget_title_margin_bottom",
+      "value": "8vp"
+    },
+    {
+      "name": "tag_distribution_widget_title_margin_bottom_compact",
+      "value": "10vp"
+    },
+    {
+      "name": "tag_distribution_widget_list_gap",
+      "value": "12vp"
+    },
+    {
+      "name": "tag_distribution_widget_row_gap",
+      "value": "12vp"
+    },
+    {
+      "name": "tag_distribution_widget_row_gap_compact",
+      "value": "0vp"
+    },
+    {
+      "name": "tag_distribution_widget_item_label_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "tag_distribution_widget_label_width",
+      "value": "64vp"
+    },
+    {
+      "name": "tag_distribution_widget_label_width_large",
+      "value": "56vp"
+    },
+    {
+      "name": "tag_distribution_widget_bar_height",
+      "value": "8vp"
+    },
+    {
+      "name": "tag_distribution_widget_bar_radius",
+      "value": "4vp"
+    },
+    {
+      "name": "tag_distribution_widget_bar_fill_opacity",
+      "value": "0.9"
+    },
+    {
+      "name": "tag_distribution_widget_value_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "tag_distribution_widget_value_letter_spacing",
+      "value": "0fp"
+    },
+    {
+      "name": "tag_distribution_widget_value_width",
+      "value": "56vp"
+    },
+    {
+      "name": "tag_distribution_widget_value_width_large",
+      "value": "48vp"
+    },
+    {
+      "name": "tag_distribution_widget_total_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "tag_distribution_widget_empty_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "tag_distribution_widget_empty_opacity",
+      "value": "0.6"
+    },
+    {
+      "name": "reflect_today_widget_padding",
+      "value": "5vp"
+    },
+    {
+      "name": "reflect_today_widget_title_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "reflect_today_widget_title_letter_spacing",
+      "value": "1fp"
+    },
+    {
+      "name": "reflect_today_widget_chart_size",
+      "value": "96vp"
+    },
+    {
+      "name": "reflect_today_widget_chart_stroke_width",
+      "value": "16vp"
+    },
+    {
+      "name": "reflect_today_widget_chart_empty_stroke_width",
+      "value": "3vp"
+    },
+    {
+      "name": "reflect_today_widget_chart_margin_top",
+      "value": "8vp"
+    },
+    {
+      "name": "reflect_today_widget_hole_size",
+      "value": "64vp"
+    },
+    {
+      "name": "reflect_today_widget_hole_radius",
+      "value": "32vp"
+    },
+    {
+      "name": "reflect_today_widget_value_font_size",
+      "value": "24fp"
+    },
+    {
+      "name": "reflect_today_widget_unit_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "reflect_today_widget_unit_margin_top",
+      "value": "2vp"
+    },
+    {
+      "name": "shortcut_widget_padding",
+      "value": "14vp"
+    },
+    {
+      "name": "shortcut_widget_padding_compact",
+      "value": "12vp"
+    },
+    {
+      "name": "shortcut_widget_corner_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "shortcut_widget_text_gap",
+      "value": "10vp"
+    },
+    {
+      "name": "shortcut_widget_label_gap",
+      "value": "8vp"
+    },
+    {
+      "name": "shortcut_widget_icon_size",
+      "value": "18fp"
+    },
+    {
+      "name": "shortcut_widget_title_font_size",
+      "value": "18fp"
+    },
+    {
+      "name": "shortcut_widget_title_compact_font_size",
+      "value": "15fp"
+    },
+    {
+      "name": "shortcut_widget_tag_font_size",
+      "value": "13fp"
+    },
+    {
+      "name": "shortcut_widget_hint_secondary_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "shortcut_widget_action_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "shortcut_widget_badge_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "shortcut_widget_badge_padding_horizontal",
+      "value": "8vp"
+    },
+    {
+      "name": "shortcut_widget_badge_padding_vertical",
+      "value": "4vp"
+    },
+    {
+      "name": "shortcut_widget_tag_padding_horizontal",
+      "value": "12vp"
+    },
+    {
+      "name": "shortcut_widget_tag_padding_vertical",
+      "value": "4vp"
+    },
+    {
+      "name": "shortcut_widget_tag_radius",
+      "value": "14vp"
+    },
+    {
+      "name": "shortcut_widget_header_font_size",
+      "value": "13fp"
+    },
+    {
+      "name": "shortcut_widget_status_dot_size",
+      "value": "8vp"
+    },
+    {
+      "name": "shortcut_widget_status_dot_radius",
+      "value": "4vp"
+    },
+    {
+      "name": "shortcut_widget_header_badge_font_size",
+      "value": "11fp"
+    },
+    {
+      "name": "shortcut_widget_header_badge_padding_horizontal",
+      "value": "10vp"
+    },
+    {
+      "name": "shortcut_widget_header_badge_padding_vertical",
+      "value": "4vp"
+    },
+    {
+      "name": "shortcut_widget_header_badge_radius",
+      "value": "14vp"
+    },
+    {
+      "name": "shortcut_widget_plus_icon_size",
+      "value": "20fp"
+    },
+    {
+      "name": "shortcut_widget_action_badge_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "shortcut_widget_action_badge_padding_horizontal",
+      "value": "12vp"
+    },
+    {
+      "name": "shortcut_widget_action_badge_padding_vertical",
+      "value": "4vp"
+    },
+    {
+      "name": "shortcut_widget_action_badge_radius",
+      "value": "14vp"
+    },
+    {
+      "name": "shortcut_widget_content_margin_top",
+      "value": "10vp"
+    },
+    {
+      "name": "shortcut_widget_capsule_row_gap",
+      "value": "8vp"
+    },
+    {
+      "name": "shortcut_widget_capsule_height",
+      "value": "26vp"
+    },
+    {
+      "name": "shortcut_widget_capsule_height_compact",
+      "value": "22vp"
+    },
+    {
+      "name": "shortcut_widget_tag_capsule_max_width",
+      "value": "114vp"
+    },
+    {
+      "name": "shortcut_widget_tag_capsule_max_width_compact",
+      "value": "86vp"
+    },
+    {
+      "name": "shortcut_edit_page_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "shortcut_edit_section_gap",
+      "value": "14vp"
+    },
+    {
+      "name": "shortcut_edit_title_font_size",
+      "value": "18fp"
+    },
+    {
+      "name": "shortcut_edit_subtitle_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "shortcut_edit_preview_height",
+      "value": "162vp"
+    },
+    {
+      "name": "shortcut_edit_preview_compact_height",
+      "value": "118vp"
+    },
+    {
+      "name": "shortcut_edit_preview_title_font_size",
+      "value": "13fp"
+    },
+    {
+      "name": "shortcut_edit_save_button_height",
+      "value": "44vp"
+    },
+    {
+      "name": "shortcut_edit_save_button_radius",
+      "value": "12vp"
+    },
+    {
+      "name": "shortcut_edit_entry_title_font_size",
+      "value": "18fp"
+    },
+    {
+      "name": "shortcut_edit_entry_subtitle_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "shortcut_edit_entry_button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "shortcut_edit_preview_card_width",
+      "value": "232vp"
+    },
+    {
+      "name": "shortcut_edit_preview_card_compact_width",
+      "value": "206vp"
+    },
+    {
+      "name": "shortcut_edit_panel_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "shortcut_edit_panel_section_gap",
+      "value": "14vp"
+    },
+    {
+      "name": "shortcut_edit_field_label_font_size",
+      "value": "13fp"
+    },
+    {
+      "name": "shortcut_edit_input_height",
+      "value": "44vp"
+    },
+    {
+      "name": "shortcut_edit_field_radius",
+      "value": "12vp"
+    },
+    {
+      "name": "shortcut_edit_note_font_size",
+      "value": "11fp"
+    },
+    {
+      "name": "shortcut_edit_tag_gap_horizontal",
+      "value": "8vp"
+    },
+    {
+      "name": "shortcut_edit_tag_gap_vertical",
+      "value": "10vp"
+    }
+  ]
+}

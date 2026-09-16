@@ -1,0 +1,212 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#0F141B"
+    },
+    {
+      "name": "primary_lighter",
+      "value": "#1D2E48"
+    },
+    {
+      "name": "primary_light",
+      "value": "#2A4365"
+    },
+    {
+      "name": "primary",
+      "value": "#4D94FF"
+    },
+    {
+      "name": "accent_lighter",
+      "value": "#2F2413"
+    },
+    {
+      "name": "summary_lit_background",
+      "value": "#2B2414"
+    },
+    {
+      "name": "accent_light",
+      "value": "#513818"
+    },
+    {
+      "name": "accent",
+      "value": "#FFC166"
+    },
+    {
+      "name": "accent_dark",
+      "value": "#D28C23"
+    },
+    {
+      "name": "accent_darker",
+      "value": "#F5C679"
+    },
+    {
+      "name": "summary_lit_border",
+      "value": "#3C2F18"
+    },
+    {
+      "name": "neutral_100",
+      "value": "#181F2A"
+    },
+    {
+      "name": "neutral_200",
+      "value": "#212836"
+    },
+    {
+      "name": "neutral_300",
+      "value": "#2B3444"
+    },
+    {
+      "name": "neutral_500",
+      "value": "#AEB9CA"
+    },
+    {
+      "name": "bg_card",
+      "value": "#202836"
+    },
+    {
+      "name": "bg_main",
+      "value": "#181F2A"
+    },
+    {
+      "name": "text_primary",
+      "value": "#F6F8FB"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#CBD4E1"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#9EA8BA"
+    },
+    {
+      "name": "text_disabled",
+      "value": "#6F7B8E"
+    },
+    {
+      "name": "text_on_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "cover_glass_text_shadow",
+      "value": "#B3000000"
+    },
+    {
+      "name": "cover_glass_scrim_start",
+      "value": "#00121417"
+    },
+    {
+      "name": "cover_glass_scrim_end",
+      "value": "#73121417"
+    },
+    {
+      "name": "warning",
+      "value": "#FFCB66"
+    },
+    {
+      "name": "warning_light",
+      "value": "#3C2D16"
+    },
+    {
+      "name": "add_idea_ball_flow_gold_light",
+      "value": "#FFD98A"
+    },
+    {
+      "name": "add_idea_ball_flow_gold_pale",
+      "value": "#B88734"
+    },
+    {
+      "name": "add_idea_ball_glass_top",
+      "value": "#2EFFFFFF"
+    },
+    {
+      "name": "add_idea_ball_glass_bottom",
+      "value": "#59FFCB66"
+    },
+    {
+      "name": "immersive_glow_primary",
+      "value": "#5AC2FF"
+    },
+    {
+      "name": "immersive_glow_warning",
+      "value": "#FFD18A"
+    },
+    {
+      "name": "immersive_glow_accent",
+      "value": "#FFC57A"
+    },
+    {
+      "name": "immersive_glow_error",
+      "value": "#FF8A78"
+    },
+    {
+      "name": "error",
+      "value": "#FF8A78"
+    },
+    {
+      "name": "error_light",
+      "value": "#3D1C19"
+    },
+    {
+      "name": "sky_sunset_gold",
+      "value": "#4A3218"
+    },
+    {
+      "name": "tag_placeholder_gray",
+      "value": "#8F9BB0"
+    },
+    {
+      "name": "overlay_mask",
+      "value": "#8010181F"
+    },
+    {
+      "name": "input_border",
+      "value": "#333E52"
+    },
+    {
+      "name": "ideapool_collection_selector_selected_bg",
+      "value": "#5D8A5F"
+    },
+    {
+      "name": "ideapool_collection_selector_selected_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "ideapool_expand_tag_dot",
+      "value": "#C7B3FF"
+    },
+    {
+      "name": "ideapool_expand_info_birth_bg",
+      "value": "#20362A"
+    },
+    {
+      "name": "ideapool_expand_info_birth_icon",
+      "value": "#7BD99B"
+    },
+    {
+      "name": "ideapool_expand_info_touch_bg",
+      "value": "#1F2B42"
+    },
+    {
+      "name": "ideapool_expand_info_touch_icon",
+      "value": "#96ADFF"
+    },
+    {
+      "name": "ideapool_add_ball_shadow",
+      "value": "#80FFB84D"
+    },
+    {
+      "name": "ideapool_card_shadow_lit",
+      "value": "#40FFB432"
+    },
+    {
+      "name": "ideapool_card_shadow_default",
+      "value": "#1F000000"
+    },
+    {
+      "name": "ideapool_expand_card_shadow_min",
+      "value": "#0F000000"
+    }
+  ]
+}

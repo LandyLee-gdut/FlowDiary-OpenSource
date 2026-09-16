@@ -1,0 +1,96 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "primary",
+      "value": "#4D94FF"
+    },
+    {
+      "name": "text_primary",
+      "value": "#1F2326"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#4E5D66"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#8A9BA8"
+    },
+    {
+      "name": "bg_page",
+      "value": "#F4F6F8"
+    },
+    {
+      "name": "bg_main",
+      "value": "#FFF8F7F8"
+    },
+    {
+      "name": "bg_card",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "tab_bar_mask",
+      "value": "#FFF8F7F8"
+    },
+    {
+      "name": "page_background",
+      "value": "#F4F6F8"
+    },
+    {
+      "name": "tab_icon_inactive",
+      "value": "#8A9BA8"
+    },
+    {
+      "name": "primary_container",
+      "value": "#E6EFFF"
+    },
+    {
+      "name": "shadow_base",
+      "value": "#1A1F2326"
+    },
+    {
+      "name": "item_title_font",
+      "value": "#E6000000"
+    },
+    {
+      "name": "today_record_widget_divider",
+      "value": "#E8EBED"
+    },
+    {
+      "name": "today_record_widget_dot_primary",
+      "value": "#4D94FF"
+    },
+    {
+      "name": "today_record_widget_dot_accent",
+      "value": "#F5BF3B"
+    },
+    {
+      "name": "today_record_widget_dot_secondary",
+      "value": "#4AC9C2"
+    },
+    {
+      "name": "today_record_widget_dot_placeholder",
+      "value": "#8A9BA8"
+    },
+    {
+      "name": "idea_snapshot_accent",
+      "value": "#F5BF3B"
+    },
+    {
+      "name": "idea_snapshot_accent_soft",
+      "value": "#1AF5BF3B"
+    },
+    {
+      "name": "idea_snapshot_card_bg",
+      "value": "#CCFFFFFF"
+    },
+    {
+      "name": "text_on_primary",
+      "value": "#FFFFFF"
+    }
+  ]
+}

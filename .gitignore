@@ -1,0 +1,52 @@
+# IDE, local tooling, and generated dependencies
+.idea/
+.cursor/
+.workbuddy/
+.codex-skill-staging/
+.venv-skillpack/
+.hvigor/
+.preview/
+node_modules/
+oh_modules/
+build/
+dist/
+
+# Local configuration and signing material
+.env*
+local.properties
+.npmrc
+build-profile.local.json5
+build-profile.*.local.json5
+*.p12
+*.pfx
+*.cer
+*.csr
+*.p7b
+*.pem
+*.key
+*.jks
+*.keystore
+
+# Build and release packages
+*.hap
+*.hsp
+*.app
+*.hqf
+*.har
+*.zip
+
+# Development documents and capture artifacts
+doc/
+docs/
+artifacts/
+skills/
+development-log.md
+log.md
+AGENTS.md
+screenshots/
+*screenshot*.png
+*screen-capture*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif

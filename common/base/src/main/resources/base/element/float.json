@@ -1,0 +1,308 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "immersive_nav_top_spacer_height",
+      "value": "84vp"
+    },
+    {
+      "name": "page_content_padding_horizontal",
+      "value": "16vp"
+    },
+    {
+      "name": "immersive_nav_bottom_spacer_height",
+      "value": "52vp"
+    },
+    {
+      "name": "form_sheet_close_button_size",
+      "value": "40vp"
+    },
+    {
+      "name": "form_sheet_close_icon_size",
+      "value": "16fp"
+    },
+    {
+      "name": "form_sheet_close_button_margin_start",
+      "value": "15vp"
+    },
+    {
+      "name": "form_sheet_close_button_margin_top",
+      "value": "15vp"
+    },
+    {
+      "name": "form_sheet_content_padding_horizontal",
+      "value": "20vp"
+    },
+    {
+      "name": "form_sheet_content_padding_bottom",
+      "value": "24vp"
+    },
+    {
+      "name": "form_sheet_confirm_button_height",
+      "value": "44vp"
+    },
+    {
+      "name": "form_sheet_confirm_button_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "form_sheet_confirm_button_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "form_sheet_confirm_button_border_width",
+      "value": "2vp"
+    },
+    {
+      "name": "form_sheet_confirm_button_margin_top",
+      "value": "16vp"
+    },
+    {
+      "name": "form_sheet_confirm_button_margin_bottom",
+      "value": "16vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_sheet_padding_horizontal",
+      "value": "20vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_sheet_padding_bottom",
+      "value": "24vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_card_max_width",
+      "value": "380vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_card_radius",
+      "value": "32vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_card_padding_horizontal",
+      "value": "20vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_card_padding_top",
+      "value": "18vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_card_padding_bottom",
+      "value": "18vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_header_text_size",
+      "value": "18fp"
+    },
+    {
+      "name": "ideapool_collection_upsert_header_letter_spacing",
+      "value": "2fp"
+    },
+    {
+      "name": "ideapool_collection_upsert_header_margin_top",
+      "value": "4vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_header_margin_bottom",
+      "value": "8vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_glow_size",
+      "value": "220vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_glow_radius",
+      "value": "110vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_glow_shadow_radius",
+      "value": "60vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_glow_opacity",
+      "value": "0.35"
+    },
+    {
+      "name": "ideapool_collection_upsert_glow_left_x",
+      "value": "-80vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_glow_right_x",
+      "value": "240vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_glow_y",
+      "value": "-100vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_preview_size",
+      "value": "120vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_preview_radius",
+      "value": "24vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_preview_emoji_size",
+      "value": "48fp"
+    },
+    {
+      "name": "ideapool_collection_upsert_preview_margin_top",
+      "value": "20vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_name_font_size",
+      "value": "22fp"
+    },
+    {
+      "name": "ideapool_collection_upsert_name_placeholder_size",
+      "value": "22fp"
+    },
+    {
+      "name": "ideapool_collection_upsert_name_input_height",
+      "value": "44vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_name_input_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_name_section_margin_top",
+      "value": "15vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_name_section_margin_bottom",
+      "value": "15vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_name_underline_stroke",
+      "value": "5vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_name_underline_width",
+      "value": "175vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_name_underline_radius",
+      "value": "12vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_section_gap",
+      "value": "10vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_label_text_size",
+      "value": "15fp"
+    },
+    {
+      "name": "ideapool_collection_upsert_label_margin_bottom",
+      "value": "10vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_input_border_width",
+      "value": "2vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_textarea_height",
+      "value": "88vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_textarea_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_tag_text_size",
+      "value": "16fp"
+    },
+    {
+      "name": "ideapool_collection_upsert_tag_height",
+      "value": "30vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_tag_padding_horizontal",
+      "value": "12vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_tag_padding_vertical",
+      "value": "6vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_tag_margin_right",
+      "value": "8vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_tag_margin_bottom",
+      "value": "10vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_tag_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_tag_dark_opacity",
+      "value": "0.95"
+    },
+    {
+      "name": "ideapool_collection_upsert_tag_selected_translate_z",
+      "value": "-30vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_tag_check_icon_size",
+      "value": "10fp"
+    },
+    {
+      "name": "ideapool_collection_upsert_tag_check_size",
+      "value": "15vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_tag_check_offset_x",
+      "value": "-3vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_tag_check_offset_y",
+      "value": "-5vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_emoji_label_margin_bottom",
+      "value": "5vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_emoji_text_size",
+      "value": "16fp"
+    },
+    {
+      "name": "ideapool_collection_upsert_emoji_cell_size",
+      "value": "36vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_emoji_cell_radius",
+      "value": "14vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_emoji_cell_border_width",
+      "value": "1vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_emoji_cell_padding",
+      "value": "8vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_emoji_selected_shadow_radius",
+      "value": "12vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_emoji_grid_gap",
+      "value": "5vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_emoji_grid_height",
+      "value": "90vp"
+    },
+    {
+      "name": "ideapool_collection_upsert_emoji_section_margin_bottom",
+      "value": "5vp"
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "PhoneAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "PhoneAbility_label",
+      "value": "FlowDiary 流光"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "entry ability description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "FlowDiary"
+    },
+    {
+      "name": "background_running_reason",
+      "value": "for running in background"
+    },
+    {
+      "name": "calendar_read_permission_reason",
+      "value": "用于读取系统日历以同步和清理 FlowDiary 记录。"
+    },
+    {
+      "name": "calendar_write_permission_reason",
+      "value": "用于将 FlowDiary 时间记录写入系统日历。"
+    },
+    {
+      "name": "holding_hand_permission_reason",
+      "value": "用于识别设备握持手以调整浮动按钮位置。"
+    },
+    {
+      "name": "microphone_permission_reason",
+      "value": "用于语音输入识别事项名称。"
+    },
+    {
+      "name": "PhoneFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "PhoneFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "todayRecordWidget_desc",
+      "value": "展示今日记录信息"
+    },
+    {
+      "name": "todayRecordWidget_display_name",
+      "value": "今日记录"
+    },
+    {
+      "name": "today_record_widget_label",
+      "value": "今日记录"
+    },
+    {
+      "name": "today_record_widget_total_label",
+      "value": "总时长"
+    },
+    {
+      "name": "today_record_widget_empty",
+      "value": "暂无记录"
+    },
+    {
+      "name": "today_record_widget_more",
+      "value": "..."
+    },
+    {
+      "name": "today_record_widget_item_default",
+      "value": "未命名事项"
+    },
+    {
+      "name": "today_record_widget_add_symbol",
+      "value": "+"
+    },
+    {
+      "name": "today_record_widget_refresh",
+      "value": "刷新"
+    },
+    {
+      "name": "today_overview_widget_label",
+      "value": "今日概览"
+    },
+    {
+      "name": "today_overview_widget_item_label",
+      "value": "记录事项"
+    },
+    {
+      "name": "today_overview_widget_item_unit",
+      "value": " 个"
+    },
+    {
+      "name": "today_overview_widget_unit_hour",
+      "value": "h"
+    },
+    {
+      "name": "today_overview_widget_unit_minute",
+      "value": "m"
+    },
+    {
+      "name": "today_overview_widget_time_separator",
+      "value": ":"
+    },
+    {
+      "name": "TodayOverview_desc",
+      "value": "展示今日数据概览"
+    },
+    {
+      "name": "TodayOverview_display_name",
+      "value": "今日概览"
+    },
+    {
+      "name": "today_timer_widget_empty_title",
+      "value": "暂无进行事项"
+    },
+    {
+      "name": "today_timer_widget_default_title",
+      "value": "进行中事项"
+    },
+    {
+      "name": "today_timer_widget_status_running",
+      "value": "进行中"
+    },
+    {
+      "name": "today_timer_widget_status_paused",
+      "value": "已暂停"
+    },
+    {
+      "name": "today_widget_time_font_family_monospace",
+      "value": "monospace"
+    },
+    {
+      "name": "TodayTimer_desc",
+      "value": "展示当前事项计时状态"
+    },
+    {
+      "name": "TodayTimer_display_name",
+      "value": "进行中"
+    },
+    {
+      "name": "idea_snapshot_widget_label_unlit",
+      "value": "待点亮"
+    },
+    {
+      "name": "idea_snapshot_widget_recent_label",
+      "value": "最近灵感"
+    },
+    {
+      "name": "idea_snapshot_widget_placeholder",
+      "value": "暂无灵感"
+    },
+    {
+      "name": "IdeaSnapshot_desc",
+      "value": "快速记录与回顾灵感"
+    },
+    {
+      "name": "IdeaSnapshot_display_name",
+      "value": "灵感瞬念"
+    },
+    {
+      "name": "TagDistribution_desc",
+      "value": "展示今日标签时长分布"
+    },
+    {
+      "name": "TagDistribution_display_name",
+      "value": "标签分布"
+    },
+    {
+      "name": "tag_distribution_widget_label",
+      "value": "标签分布"
+    },
+    {
+      "name": "tag_distribution_widget_empty",
+      "value": "暂无数据"
+    },
+    {
+      "name": "tag_distribution_widget_item_default",
+      "value": "未分配"
+    },
+    {
+      "name": "reflect_today_widget_label",
+      "value": "今日分布"
+    },
+    {
+      "name": "reflect_today_widget_unit_hour",
+      "value": "小时"
+    },
+    {
+      "name": "ReflectToday_desc",
+      "value": "展示今日时间分布概览"
+    },
+    {
+      "name": "ReflectToday_display_name",
+      "value": "今日分布"
+    },
+    {
+      "name": "ShortCut_desc",
+      "value": "快速启动已绑定的今日事项"
+    },
+    {
+      "name": "ShortCut_display_name",
+      "value": "事项快捷启动"
+    },
+    {
+      "name": "shortcut_widget_empty_hint",
+      "value": "暂无绑定事项"
+    },
+    {
+      "name": "shortcut_widget_empty_subtitle",
+      "value": "长按卡片进入编辑，绑定常用事项后可快速新增"
+    },
+    {
+      "name": "shortcut_widget_default_tag",
+      "value": "无标签"
+    },
+    {
+      "name": "shortcut_widget_title_fallback",
+      "value": "未命名事项"
+    },
+    {
+      "name": "shortcut_widget_action_hint",
+      "value": "点击后自动填充添加事项"
+    },
+    {
+      "name": "shortcut_widget_action_hint_autostart",
+      "value": "点击后自动填充并直接开始"
+    },
+    {
+      "name": "shortcut_widget_autostart_badge",
+      "value": "自动开始"
+    },
+    {
+      "name": "shortcut_widget_header_label",
+      "value": "快捷启动"
+    },
+    {
+      "name": "shortcut_widget_bound_badge",
+      "value": "已绑定"
+    },
+    {
+      "name": "shortcut_widget_action_badge_fill",
+      "value": "快速填充"
+    },
+    {
+      "name": "shortcut_widget_action_badge_autostart",
+      "value": "直接开始"
+    },
+    {
+      "name": "shortcut_widget_empty_subtitle_line_1",
+      "value": "长按卡片进入编辑，"
+    },
+    {
+      "name": "shortcut_widget_empty_subtitle_line_2",
+      "value": "绑定常用事项后可快速新增"
+    },
+    {
+      "name": "shortcut_edit_entry_title",
+      "value": "快捷事项卡片"
+    },
+    {
+      "name": "shortcut_edit_entry_subtitle",
+      "value": "正在打开专属编辑页…"
+    },
+    {
+      "name": "shortcut_edit_entry_button",
+      "value": "开始编辑"
+    },
+    {
+      "name": "shortcut_edit_page_title",
+      "value": "快捷事项卡片编辑器"
+    },
+    {
+      "name": "shortcut_edit_preview_title",
+      "value": "卡片预览"
+    },
+    {
+      "name": "shortcut_edit_page_save",
+      "value": "保存绑定"
+    },
+    {
+      "name": "shortcut_edit_name_placeholder",
+      "value": "请输入要创建快捷事项名称"
+    },
+    {
+      "name": "shortcut_edit_page_save_success",
+      "value": "卡片绑定已保存"
+    },
+    {
+      "name": "shortcut_edit_page_save_failed",
+      "value": "保存失败，请稍后重试"
+    },
+    {
+      "name": "shortcut_edit_page_validation",
+      "value": "请填写事项名称"
+    },
+    {
+      "name": "shortcut_edit_panel_tip",
+      "value": "配置完成后，点击卡片即可快速填入事项信息"
+    },
+    {
+      "name": "shortcut_edit_autostart_hint",
+      "value": "默认直接开始记录事项"
+    },
+    {
+      "name": "shortcut_edit_tag_empty",
+      "value": "暂无标签，可先进入应用创建标签"
+    },
+    {
+      "name": "shortcut_edit_emoji_title",
+      "value": "添加表情"
+    },
+    {
+      "name": "shortcut_edit_size_1x2",
+      "value": "预览尺寸 1×2"
+    },
+    {
+      "name": "shortcut_edit_size_2x2",
+      "value": "预览尺寸 2×2"
+    }
+  ]
+}

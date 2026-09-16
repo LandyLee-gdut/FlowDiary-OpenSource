@@ -1,0 +1,168 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#0F141B"
+    },
+    {
+      "name": "primary",
+      "value": "#4D94FF"
+    },
+    {
+      "name": "primary_lighter",
+      "value": "#1D2E48"
+    },
+    {
+      "name": "panel_blue",
+      "value": "#0063E6"
+    },
+    {
+      "name": "panel_accent",
+      "value": "#E6A23A"
+    },
+    {
+      "name": "accent_lighter",
+      "value": "#2F2413"
+    },
+    {
+      "name": "badge_date_bg",
+      "value": "#2F2413"
+    },
+    {
+      "name": "accent_dark",
+      "value": "#D28C23"
+    },
+    {
+      "name": "warning",
+      "value": "#FFCB66"
+    },
+    {
+      "name": "warning_dark",
+      "value": "#FFCB66"
+    },
+    {
+      "name": "badge_warning_text",
+      "value": "#FFCB66"
+    },
+    {
+      "name": "badge_primary_text",
+      "value": "#4D94FF"
+    },
+    {
+      "name": "error",
+      "value": "#FF8A78"
+    },
+    {
+      "name": "immersive_glow_primary",
+      "value": "#5AC2FF"
+    },
+    {
+      "name": "immersive_glow_warning",
+      "value": "#FFD18A"
+    },
+    {
+      "name": "immersive_glow_accent",
+      "value": "#FFC57A"
+    },
+    {
+      "name": "immersive_glow_error",
+      "value": "#FF8A78"
+    },
+    {
+      "name": "bg_card",
+      "value": "#202836"
+    },
+    {
+      "name": "bg_main",
+      "value": "#181F2A"
+    },
+    {
+      "name": "bg_page",
+      "value": "#141A24"
+    },
+    {
+      "name": "neutral_100",
+      "value": "#181F2A"
+    },
+    {
+      "name": "neutral_200",
+      "value": "#212836"
+    },
+    {
+      "name": "text_primary",
+      "value": "#F6F8FB"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#CBD4E1"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#9EA8BA"
+    },
+    {
+      "name": "text_disabled",
+      "value": "#6F7B8E"
+    },
+    {
+      "name": "text_on_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "shadow_thick",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "day_review_loading_gradient_start",
+      "value": "#1E2433"
+    },
+    {
+      "name": "day_review_loading_gradient_end",
+      "value": "#151B25"
+    },
+    {
+      "name": "weekly_chart_bar_base",
+      "value": "#25324A"
+    },
+    {
+      "name": "weekly_chart_bar_focus",
+      "value": "#6CA4FF"
+    },
+    {
+      "name": "weekly_chart_bar_neutral",
+      "value": "#323C4F"
+    },
+    {
+      "name": "weekly_chart_label_dark",
+      "value": "#DCE3EF"
+    },
+    {
+      "name": "weekly_chart_axis_label",
+      "value": "#B2BCCB"
+    },
+    {
+      "name": "weekly_chart_axis_label_muted",
+      "value": "#8A94A3"
+    },
+    {
+      "name": "timeline_grid_light",
+      "value": "#1D2534"
+    },
+    {
+      "name": "timeline_grid_dark",
+      "value": "#273142"
+    },
+    {
+      "name": "timeline_major_divider",
+      "value": "#323F56"
+    },
+    {
+      "name": "timeline_minor_divider",
+      "value": "#2A3243"
+    },
+    {
+      "name": "timeline_grid_border",
+      "value": "#1F2836"
+    }
+  ]
+}

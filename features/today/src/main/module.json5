@@ -1,0 +1,35 @@
+{
+  "module": {
+    "name": "today",
+    "type": "har",
+    "description": "$string:module_desc",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1",
+      "wearable"
+    ],
+    "installationFree": false,
+    "routerMap": "$profile:router_map",
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.VIBRATE",
+        "reason": "$string:today_permission_vibrate_desc",
+        "usedScene": {
+          "abilities": [
+          ],
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.MICROPHONE",
+        "reason": "$string:today_permission_microphone_desc",
+        "usedScene": {
+          "abilities": [
+          ],
+          "when": "inuse"
+        }
+      }
+    ]
+  }
+}

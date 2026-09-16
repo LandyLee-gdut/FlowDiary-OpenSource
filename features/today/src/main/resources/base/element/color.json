@@ -1,0 +1,288 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "primary_lighter",
+      "value": "#E6F0FF"
+    },
+    {
+      "name": "primary_light",
+      "value": "#B3D1FF"
+    },
+    {
+      "name": "primary",
+      "value": "#4D94FF"
+    },
+    {
+      "name": "primary_dark",
+      "value": "#0063E6"
+    },
+    {
+      "name": "add_ball_flow_blue_mist",
+      "value": "#8EC5FF"
+    },
+    {
+      "name": "add_ball_flow_blue_sky",
+      "value": "#C5E9FF"
+    },
+    {
+      "name": "add_ball_glass_top",
+      "value": "#59FFFFFF"
+    },
+    {
+      "name": "add_ball_glass_bottom",
+      "value": "#664D94FF"
+    },
+    {
+      "name": "accent_lighter",
+      "value": "#FFF7E6"
+    },
+    {
+      "name": "accent_light",
+      "value": "#FFDCA8"
+    },
+    {
+      "name": "accent",
+      "value": "#cbffc166"
+    },
+    {
+      "name": "accent_dark",
+      "value": "#E6A23A"
+    },
+    {
+      "name": "bg_card",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "bg_main",
+      "value": "#fff8f7f8"
+    },
+    {
+      "name": "bg_page",
+      "value": "#F4F6F8"
+    },
+    {
+      "name": "data_viz_1",
+      "value": "#4D94FF"
+    },
+    {
+      "name": "data_viz_1_light",
+      "value": "#E6F0FF"
+    },
+    {
+      "name": "data_viz_2",
+      "value": "#F5BF3B"
+    },
+    {
+      "name": "data_viz_2_light",
+      "value": "#FFE8A0"
+    },
+    {
+      "name": "data_viz_3",
+      "value": "#4AC9C2"
+    },
+    {
+      "name": "data_viz_3_light",
+      "value": "#E0F8F7"
+    },
+    {
+      "name": "data_viz_4",
+      "value": "#ccb380ff"
+    },
+    {
+      "name": "data_viz_4_light",
+      "value": "#F2EBFF"
+    },
+    {
+      "name": "data_viz_5",
+      "value": "#ccff8a78"
+    },
+    {
+      "name": "data_viz_5_light",
+      "value": "#FFEAE7"
+    },
+    {
+      "name": "data_viz_6",
+      "value": "#66D9A8"
+    },
+    {
+      "name": "data_viz_6_light",
+      "value": "#E3F7EF"
+    },
+    {
+      "name": "error",
+      "value": "#E35C4D"
+    },
+    {
+      "name": "neutral_100",
+      "value": "#F4F6F8"
+    },
+    {
+      "name": "neutral_200",
+      "value": "#E8EBED"
+    },
+    {
+      "name": "neutral_300",
+      "value": "#D1D9E0"
+    },
+    {
+      "name": "neutral_500",
+      "value": "#8A9BA8"
+    },
+    {
+      "name": "neutral_800",
+      "value": "#ff202628"
+    },
+    {
+      "name": "panel_bg",
+      "value": "#FFF5F8FA"
+    },
+    {
+      "name": "sky_clear",
+      "value": "#CCE7FF"
+    },
+    {
+      "name": "panel_blue",
+      "value": "#CCE7FF"
+    },
+    {
+      "name": "sky_sunset_gold_light",
+      "value": "#ffffe78e"
+    },
+    {
+      "name": "panel_accent",
+      "value": "#ffffe78e"
+    },
+    {
+      "name": "text_disabled",
+      "value": "#D1D9E0"
+    },
+    {
+      "name": "text_primary",
+      "value": "#1F2326"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#4E5D66"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#8A9BA8"
+    },
+    {
+      "name": "warning",
+      "value": "#F5BF3B"
+    },
+    {
+      "name": "today_add_ball_shadow",
+      "value": "#9ED7FF"
+    },
+    {
+      "name": "immersive_glow_recording",
+      "value": "#B5DCFF"
+    },
+    {
+      "name": "immersive_glow_primary",
+      "value": "#38B6FF"
+    },
+    {
+      "name": "immersive_glow_warning",
+      "value": "#FFD391"
+    },
+    {
+      "name": "immersive_glow_accent",
+      "value": "#FFC87D"
+    },
+    {
+      "name": "immersive_glow_error",
+      "value": "#FFADA1"
+    },
+    {
+      "name": "text_on_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "today_record_widget_divider",
+      "value": "#E8EBED"
+    },
+    {
+      "name": "timeline_grid_light",
+      "value": "#F4F7FB"
+    },
+    {
+      "name": "timeline_grid_dark",
+      "value": "#ECF1F8"
+    },
+    {
+      "name": "timeline_major_divider",
+      "value": "#B8CCFF"
+    },
+    {
+      "name": "timeline_minor_divider",
+      "value": "#E2E8F0"
+    },
+    {
+      "name": "timeline_grid_border",
+      "value": "#E3E9F3"
+    },
+    {
+      "name": "matter_card_gradient_start",
+      "value": "#FFF5F8FA"
+    },
+    {
+      "name": "matter_card_gradient_end",
+      "value": "#A9FCF8F3"
+    },
+    {
+      "name": "matter_card_fill",
+      "value": "#FFF5F8FA"
+    },
+    {
+      "name": "matter_card_secondary_button_bg",
+      "value": "#CCE7FF"
+    },
+    {
+      "name": "segment_background",
+      "value": "#FFECECEC"
+    },
+    {
+      "name": "segment_selected_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "input_border",
+      "value": "#D1D9E0"
+    },
+    {
+      "name": "today_voice_input_bar_text",
+      "value": "#FF1F2326"
+    },
+    {
+      "name": "today_voice_glass_gold",
+      "value": "#8CFFD9A3"
+    },
+    {
+      "name": "today_voice_glass_blue",
+      "value": "#8CA9CCFF"
+    },
+    {
+      "name": "today_fan_glass_top",
+      "value": "#59FAFAFA"
+    },
+    {
+      "name": "today_fan_glass_bottom",
+      "value": "#99E6E6E8"
+    },
+    {
+      "name": "today_fan_glass_active_top",
+      "value": "#B3FFF3DC"
+    },
+    {
+      "name": "today_fan_glass_active_bottom",
+      "value": "#CCFFDCA8"
+    }
+  ]
+}

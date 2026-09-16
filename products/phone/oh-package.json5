@@ -1,0 +1,15 @@
+{
+  "name": "phone",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "today": "file:../../features/today",
+    'base': '../../common/base',
+    'reflect': "file:../../features/reflect",
+    'ideapool': "file:../../features/ideapool"
+  }
+}
+

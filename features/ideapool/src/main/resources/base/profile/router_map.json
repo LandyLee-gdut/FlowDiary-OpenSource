@@ -1,0 +1,20 @@
+{
+  "routerMap": [
+    {
+      "name": "IdeaPool",
+      "pageSourceFile": "src/main/ets/pages/Index.ets",
+      "buildFunction": "IdeaPoolBuilder",
+      "data": {
+        "description" : "this is IdeaPool Page"
+      }
+    },
+    {
+      "name": "IdeaCollectionDetailPage",
+      "pageSourceFile": "src/main/ets/pages/IdeaCollectionDetailPage.ets",
+      "buildFunction": "IdeaCollectionDetailPageBuilder",
+      "data": {
+        "description" : "this is Idea Collection Detail Page"
+      }
+    }
+  ]
+}

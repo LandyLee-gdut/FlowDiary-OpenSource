@@ -1,0 +1,138 @@
+{
+  "module": {
+    "name": "phone",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "PhoneAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "querySchemes": [
+      "goalfighter"
+    ],
+    "abilities": [
+      {
+        "name": "PhoneAbility",
+        "srcEntry": "./ets/phoneability/PhoneAbility.ets",
+        "description": "$string:PhoneAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:PhoneAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "backgroundModes": [
+          "dataTransfer"
+          // 后台数据传输类型（适用于计时/同步任务）
+        ],
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TodayShortcutFormEditAbility",
+        "srcEntry": "./ets/entryformeditability/TodayShortcutFormEditAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+      }
+    ],
+    "extensionAbilities": [
+      {
+        "name": "PhoneBackupAbility",
+        "srcEntry": "./ets/phonebackupability/PhoneBackupAbility.ets",
+        "type": "backup",
+        "exported": false,
+        "metadata": [
+          {
+            "name": "ohos.extension.backup",
+            "resource": "$profile:backup_config"
+          }
+        ],
+      },
+      {
+        "name": "PhoneFormAbility",
+        "srcEntry": "./ets/phoneformability/PhoneFormAbility.ets",
+        "label": "$string:PhoneFormAbility_label",
+        "description": "$string:PhoneFormAbility_desc",
+        "type": "form",
+        "metadata": [
+          {
+            "name": "ohos.extension.form",
+            "resource": "$profile:form_config"
+          }
+        ]
+      },
+    ],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.KEEP_BACKGROUND_RUNNING",
+        // 后台持续运行权限
+        "reason": "$string:background_running_reason"
+      },
+      {
+        "name": "ohos.permission.DETECT_GESTURE",
+        "reason": "$string:holding_hand_permission_reason",
+        "usedScene": {
+          "abilities": [
+            "PhoneAbility"
+          ],
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.READ_CALENDAR",
+        "reason": "$string:calendar_read_permission_reason",
+        "usedScene": {
+          "abilities": [
+            "PhoneAbility"
+          ],
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.WRITE_CALENDAR",
+        "reason": "$string:calendar_write_permission_reason",
+        "usedScene": {
+          "abilities": [
+            "PhoneAbility"
+          ],
+          "when": "inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.MICROPHONE",
+        "reason": "$string:microphone_permission_reason",
+        "usedScene": {
+          "abilities": [
+            "PhoneAbility"
+          ],
+          "when": "inuse"
+        }
+      }
+    ]
+  }
+}
